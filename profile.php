@@ -46,7 +46,7 @@
                               <a href="#">
                                   <img src="img/profile-avatar.jpg" alt="">
                               </a>
-                              <h1>Jonathan William</h1>
+                              <h1>Jonathan Smith</h1>
                               <p>jsmith@flatlab.com</p>
                           </div>
 
